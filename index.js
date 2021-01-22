@@ -1002,7 +1002,6 @@ quotedMessage: {
 conversation: b
 }
 }
-}
 })
 break
 				default:
